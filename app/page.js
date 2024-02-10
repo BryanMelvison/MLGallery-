@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Title from "../components/title";
-import MainPage from "@/components/mainpage";
+import MainPage from "../components/mainpage";
 
 export default function Home() {
   return (
