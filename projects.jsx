@@ -29,3 +29,13 @@ export const Project = [
     }
 ]
 
+export const Form = {
+    "nli" : [
+        {name: "Premise", type: "text", placeholder: "Premise..."},
+        {name: "Hypothesis", type: "text", placeholder: "Hypothesis..."}
+    ],
+    "nameGen" : [
+        "Sample Size",
+        "Initial"
+    ]
+}

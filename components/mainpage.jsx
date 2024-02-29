@@ -1,6 +1,6 @@
-import Reveal from "@/components/reveal"
+import Reveal from "./reveal"
 import AnimatedBackground from "./background"
-import { Project } from "@/projects"
+import { Project } from "../projects"
 import Link from "next/link"
 
 const MainPage = () => {

@@ -1,4 +1,4 @@
-import Reveal from "@/components/reveal"
+import Reveal from "./reveal"
 import AnimatedBackground from "./background"
 
 const Title = () => {
@@ -25,7 +25,7 @@ const Title = () => {
                     </div>
                     <div className="mb-8">
                         <Reveal>
-                            <h1 className="h4">By <a class="hover:underline hover:text hover:text-blue-500" href="https://bryan-melvison.vercel.app/">Bryan Melvison</a></h1>
+                            <h1 className="h4">By <a className="hover:underline hover:text hover:text-blue-500" href="https://bryan-melvison.vercel.app/">Bryan Melvison</a></h1>
                         </Reveal>
                     </div>
                 </div>
